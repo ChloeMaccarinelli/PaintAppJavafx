@@ -16,8 +16,6 @@ class Controller {
 
     private View view;
     private Model model;
- //   private Polygon currentPolygon ;
-
     public Controller(View v, Model m){
         this.view = v;
         this.model = m;
